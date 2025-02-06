@@ -1,7 +1,7 @@
 # Minimum Dominating Set Problem (CS301 - Algorithms | Spring 2022 - 2023)
 
 ## Project Description
-This project explores the **Minimum Dominating Set Problem**, a fundamental problem in graph theory and combinatorial optimization. Given an **undirected graph** \( G = (V, E) \), a **dominating set** is a subset \( D \subseteq V \) such that every vertex in \( V - D \) has at least one neighbor in \( D \). The goal is to find the **smallest** possible dominating set for a given graph.
+This project explores the **Minimum Dominating Set Problem**, a fundamental problem in graph theory and combinatorial optimization. Given an **undirected graph** $( G = (V, E)$, a **dominating set** is a subset $( D \subseteq V $ such that every vertex in $( V - D \) has at least one neighbor in \( D \). The goal is to find the **smallest** possible dominating set for a given graph.
 
 The problem is **NP-complete**, making exact solutions computationally intractable for large graphs. This project implements **two approaches** to solve the problem:
 1. **Brute Force Algorithm** - An exhaustive search to find the optimal solution.
