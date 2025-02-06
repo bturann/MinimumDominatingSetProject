@@ -12,7 +12,7 @@ The problem is **NP-complete**, making exact solutions computationally intractab
 - Generates all possible subsets of vertices.
 - Checks each subset to determine if it is a dominating set.
 - Returns the minimum-sized valid dominating set.
-- **Time Complexity:** \( O(2^n \cdot k(n-k)) \), making it impractical for large graphs.
+- **Time Complexity:** $( O(2^n \cdot k(n-k))$, making it impractical for large graphs.
 
 ### 2. Greedy Heuristic Algorithm
 - Assigns weights to each vertex based on its degree.
